@@ -1,0 +1,16 @@
+body,.mw-page-container{
+    background-color: black;
+    color: black;
+}
+a{
+    color: crimson;
+    background-color: chartreuse;
+}
+span,div{
+    color: rgb(51, 154, 245);
+    background-color: rgb(54, 4, 4);
+}
+p,h1,h2{
+
+    color: burlywood;
+}

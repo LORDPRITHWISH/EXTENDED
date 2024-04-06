@@ -1,0 +1,15 @@
+#car1{
+    float: left;
+    margin: 5px;
+
+    margin-right: 10px;
+}
+#car2{
+    float: right;
+    margin: 5px;
+    margin-left: 15px;
+}
+body{
+    border: 5px solid;
+    display: flow-root;
+}

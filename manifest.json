@@ -1,0 +1,17 @@
+{
+    "name":"creation",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "icons":{
+        "128":"icon.png"
+    },
+    "action":{
+        "default_icon":{
+            "128":"icon.png"
+        }
+    },
+    "background":{
+        "service_worker":"background.js"
+    },
+    "permissions":["activeTab","scripting"]
+}
